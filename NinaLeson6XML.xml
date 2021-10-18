@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Exhange_rates>
+	<rate>
+		<Digital_code>978</Digital_code>
+		<Letter_code>EUR</Letter_code>
+		<Unit>1</Unit>
+		<Currency_name>Euro</Currency_name>
+		<UAH_at_20.09.2021>"31,4626"</UAH_at_20.09.2021>
+	</rate>
+		<rate>
+		<Digital_code>643</Digital_code>
+		<Letter_code>RUB</Letter_code>
+		<Unit>10</Unit>
+		<Currency_name>Russian Ruble</Currency_name>
+		<UAH_at_20.09.2021>"3,6832"</UAH_at_20.09.2021>
+	</rate>
+		<rate>
+		<Digital_code>392</Digital_code>
+		<Letter_code>JPY</Letter_code>
+		<Unit>10</Unit>
+		<Currency_name>Yen</Currency_name>
+		<UAH_at_20.09.2021>"2,4281"</UAH_at_20.09.2021>
+	</rate>
+		<rate>
+		<Digital_code>826</Digital_code>
+		<Letter_code>GBP</Letter_code>
+		<Unit>1</Unit>
+		<Currency_name>Pound Sterling</Currency_name>
+		<UAH_at_20.09.2021>"36,8632"</UAH_at_20.09.2021>
+	</rate>
+		<rate>
+		<Digital_code>756</Digital_code>
+		<Letter_code>CHF</Letter_code>
+		<Unit>1</Unit>
+		<Currency_name>Swiss Franc</Currency_name>
+		<UAH_at_20.09.2021>"27,7839"</UAH_at_20.09.2021>
+	</rate>
+</Exhange_rates>

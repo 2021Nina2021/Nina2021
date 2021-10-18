@@ -1,0 +1,24 @@
+#mylink1 {color: #9E040E; font-size: 18px;}
+#mylink2 {color: #6B0348; font-size: 18px;}
+#mylink3 {color: red; font-size: 18px;}
+
+.message {color:#300D75; background-color:#C7BAE3; border: 2px solid #370798; font-size:16px; font-weight:900; margin-bottom: 10px; margin-top: 10px; 
+margin-right: 200px; margin-left: 20px; padding-bottom: 5px; padding-top: 5px; padding-left: 15px; padding-right: 15px; border-radius: 25px; opacity: 0.9; 
+box-shadow: 35px 35px 25px #12011A; text-align:left; }
+.one {color:#1B0841; background-color:#9468EB; margin-right: 400px;}
+.two {color: #280C3C; background-color:#7647D5; margin-right: 600px; margin-bottom: 20px;}
+
+.message:hover {border:10px dashed #440073; opacity: 0.4; }
+
+body {background: url(sea1.jpg)}
+
+img {
+  border-radius: 50%;
+  -webkit-transition: -webkit-transform 0.8s ease-in-out;
+          transition:         transform 0.8s ease-in-out;
+}
+img:hover {
+  -webkit-transform: rotate(360deg);
+          transform: rotate(360deg);
+}
+div {color: black; font-size: 19px; text-align:center; font-weight:20;}

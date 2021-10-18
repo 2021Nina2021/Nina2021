@@ -1,0 +1,38 @@
+{
+	"Exhange rates": [{
+			"Digital code": 978,
+			"Letter code": "EUR",
+			"Unit": 1,
+			"Currency name": "Euro",
+			"UAH at 20.09.2021": "31,4626"
+		},
+		{
+			"Digital code": 643,
+			"Letter code": "RUB",
+			"Unit": 10,
+			"Currency_name": "Russian Ruble",
+			"UAH at 20.09.2021": "3,6832"
+		},
+		{
+			"Digital code": 392,
+			"Letter code": "JPY",
+			"Unit": 10,
+			"Currency_name": "Yen",
+			"UAH at 20.09.2021": "2,4281"
+		},
+		{
+			"Digital code": 826,
+			"Letter code": "GBP",
+			"Unit": 1,
+			"Currency_name": "Pound Sterling",
+			"UAH at 20.09.2021": "36,8632"
+		},
+		{
+			"Digital code": 756,
+			"Letter code": "CHF",
+			"Unit": 1,
+			"Currency name": "Swiss Franc",
+			"UAH at 20.09.2021": "28,7839"
+		}
+	]
+}
