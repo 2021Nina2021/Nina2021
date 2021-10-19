@@ -28,11 +28,5 @@
 		<Currency_name>Pound Sterling</Currency_name>
 		<UAH_at_20.09.2021>"36,8632"</UAH_at_20.09.2021>
 	</rate>
-		<rate>
-		<Digital_code>756</Digital_code>
-		<Letter_code>CHF</Letter_code>
-		<Unit>1</Unit>
-		<Currency_name>Swiss Franc</Currency_name>
-		<UAH_at_20.09.2021>"27,7839"</UAH_at_20.09.2021>
-	</rate>
+		
 </Exhange_rates>
